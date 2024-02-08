@@ -85,4 +85,5 @@ class RouteMap {
   }
 }
 
-module.exports = RouteMap
+// module.exports = RouteMap
+export default RouteMap;
