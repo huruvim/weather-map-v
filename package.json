@@ -1,0 +1,22 @@
+{
+  "name": "weather-map-v",
+  "version": "1.0.3",
+  "description": "map",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huruvim/weather-map-v.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/huruvim/weather-map-v/issues"
+  },
+  "homepage": "https://github.com/huruvim/weather-map-v#readme",
+  "dependencies": {
+    "maplibre-gl": "^4.0.0"
+  }
+}
